@@ -25,9 +25,9 @@
 [<img align="left" alt="Node.js" width="26px"  title="Node JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][node]
 [<img align="left" alt="express" width="26px"  title="Express JS" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original.svg" style="padding-right:10px;" />][express]
 [<img align="left" alt="MongoDB" width="26px"  title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][mongodb]
-[<img align="left" alt="MySQL" width="26px" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />][firebase]
-[<img align="left" alt="Git" width="26px" title="VS Code"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Firebase" width="26px" title="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />][firebase]
+[<img align="left" alt="Git" width="26px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][git]
+[<img align="left" alt="GitHub" width="26px" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" />][github]
 
 <br />
 <br />
