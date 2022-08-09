@@ -20,7 +20,7 @@
 [<img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][javascript]
 [<img align="left" alt="React" width="26px" title="React JS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][react]
 [<img align="left" alt="Bootstarp" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />][bootstrap]
-[<img align="left" alt="Bootstarp" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />][tailwindcss]
+[<img align="left" alt="Bootstarp" width="26px" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />][tailwindcss]
 [<img align="left" alt="Restful API" width="26px" title="Restful API"  src="https://restfulapi.net/wp-content/uploads/rest.png" style="padding-right:10px;" />][restapi]
 [<img align="left" alt="Node.js" width="26px"  title="Node JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][node]
 [<img align="left" alt="express" width="26px"  title="Express JS" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original.svg" style="padding-right:10px;" />][express]
