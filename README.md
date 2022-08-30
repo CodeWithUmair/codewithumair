@@ -28,4 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithumair&show_icons=true&locale=en" alt="codewithumair" /></p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairamir&theme=radical)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithumair&" alt="codewithumair" /></p>
