@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **codewithumair867@gmail.com**
 
-- ⚡ Fun fact => **I am most interested in Web 3.0**
+- ⚡ Fun fact => **I am interested in Web 3.0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
