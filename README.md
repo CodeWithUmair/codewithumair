@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithumair&label=Profile%20views&color=0e75b6&style=flat" alt="codewithumair" /> </p>
 
-- 🔭 I’m currently working on my company website [Textile Channel](https://textilechannel.netlify.app/)
+- 🔭 I’m currently working on my company website [Textile Channel](https://textilechannel.com/)
 
 - 🌱 I’m currently practicing **React JS, JavaScript, MUI 5**
 
