@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently practicing **React JS, JavaScript, MUI 5**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-867.netlify.app/](https://portfolio-867.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://codewithumair.netlify.app/](https://codewithumair.netlify.app/)
 
 - 💬 Ask me about **Front End Development**
 
