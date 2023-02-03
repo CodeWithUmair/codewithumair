@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently practicing **React JS, JavaScript, MUI 5**
 
-- 👨‍💻 My Shopify Portfolio web 👉🏻 [https://shopifyexpert.netlify.app/](https://shopifyexpert.netlify.app/)
+<!-- - 👨‍💻 My Shopify Portfolio web 👉🏻 [https://shopifyexpert.netlify.app/](https://shopifyexpert.netlify.app/) -->
 
 - 👨‍💻 My Portfolio web 👉🏻 [https://codewithumair.netlify.app/](https://codewithumair.netlify.app/)
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Shopify Development**
 
 - 📫 How to reach me **codewithumair867@gmail.com**
 
