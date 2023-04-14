@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithumair&label=Profile%20views&color=0e75b6&style=flat" alt="codewithumair" /> </p>
 
-- 🔭 I’m currently working on my company website [Textile Channel](https://textilechannel.com/)
+- 🔭 I’m currently working in [Ecommerce Inside](https://ecommerceinside.co/)
 
-- 🌱 I’m currently practicing **React JS, JavaScript, MUI 5**
+- 🌱 I’m currently practicing **React JS, JavaScript, Shopify & Blockchain **
 
 <!-- - 👨‍💻 My Shopify Portfolio web 👉🏻 [https://shopifyexpert.netlify.app/](https://shopifyexpert.netlify.app/) -->
 
 - 👨‍💻 My Portfolio web 👉🏻 [https://codewithumair.netlify.app/](https://codewithumair.netlify.app/)
 
-- 💬 Ask me about **Shopify Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **codewithumair867@gmail.com**
 
