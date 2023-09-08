@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in [Ecommerce Inside](https://ecommerceinside.co/)
 
-- 🌱 I’m currently practicing ** Shopify & Blockchain **
+- 🌱 I’m currently practicing ** Shopify, WordPress & Blockchains **
 
 <!-- - 👨‍💻 My Shopify Portfolio web 👉🏻 [https://shopifyexpert.netlify.app/](https://shopifyexpert.netlify.app/) -->
 
