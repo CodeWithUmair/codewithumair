@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Umair Amir</h1>
+<h1 align="center">Hi 👋, Umair Amir here</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working in [Ecommerce Inside](https://ecommerceinside.co/)
 
-- 🌱 I’m currently practicing ** Shopify, WordPress & Blockchains **
+- 🌱 I’m currently practicing ** React.js & Next.js with Typescript, Redux toolkit and Tanstak query in my projects, Shopify & Blockchains **
 
 <!-- - 👨‍💻 My Shopify Portfolio web 👉🏻 [https://shopifyexpert.netlify.app/](https://shopifyexpert.netlify.app/) -->
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **codewithumair867@gmail.com**
 
-- ⚡ Fun fact => **I am interested in Web 3.0**
+<!-- - ⚡ Fun fact => **I have to work on interesting technology** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
