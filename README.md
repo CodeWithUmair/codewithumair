@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Umair Amir here</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">Software Engineer (Frontend Development)</h3>
 
 - 🔭 I’m currently working in [Ecommerce Inside](https://ecommerceinside.co/)
 
-- 🌱 I’m currently practicing ** React.js & Next.js with Typescript, Redux toolkit and Tanstak query in my projects, Shopify & Blockchains **
+- 🌱 Current Tech Stack is ** React.js & Next.js with Typescript and Redux toolkit in my projects **
 
 <!-- - 👨‍💻 My Shopify Portfolio web 👉🏻 [https://shopifyexpert.netlify.app/](https://shopifyexpert.netlify.app/) -->
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **codewithumair867@gmail.com**
 
-<!-- - ⚡ Fun fact => **I have to work on interesting technology** -->
+- 😂 Fun fact => **Love to play CS 1.6 🔫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
