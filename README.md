@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 My Shopify Portfolio web 👉🏻 [https://shopifyexpert.netlify.app/](https://shopifyexpert.netlify.app/) -->
 
-- 👨‍💻 My Portfolio web 👉🏻 [https://codewithumair.github.io/](https://codewithumair.github.io/)
+- 👨‍💻 My Portfolio web 👉🏻 [https://umairamir.vercel.app/](https://umairamir.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
