@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Umair Amir here</h1>
 <h3 align="center">Software Engineer (Frontend Development)</h3>
 
-- 🔭 I’m currently working in [Ecommerce Inside](https://ecommerceinside.co/)
+- 🔭 I’m currently working in [Decrypted Labs]([https://ecommerceinside.co/](https://www.linkedin.com/company/decryptedlabs/posts/?feedView=all))
 
 - 🌱 Current Tech Stack is ** React.js & Next.js with Typescript and Redux toolkit in my projects **
 
