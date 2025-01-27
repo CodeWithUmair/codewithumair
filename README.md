@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Umair Amir here</h1>
-<h3 align="center">Software Engineer (MERN Stack | Ai Agents | Web3)</h3>
+<h3 align="center">Software Engineer (MERN Stack | AI Agents | Web3)</h3>
 
 - 🔭 I’m currently working in [Decrypted Labs]([https://ecommerceinside.co/](https://www.linkedin.com/company/decryptedlabs/posts/?feedView=all))
 
