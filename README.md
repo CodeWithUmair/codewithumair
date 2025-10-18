@@ -38,7 +38,15 @@
 
 ---
 
+### ✨ Featured Projects
+- 🪙 [Crypto on Discount](https://cryptoondiscount.com/) – Web3 platform for USDC staking and smart contract integrations.  
+- 💼 [IAMDivinity](https://www.linkedin.com/company/decryptedlabs/) – Scalable platform with 10K+ users, optimized for performance and SEO.  
+- 💳 [StablePal](https://stable-pal.vercel.app/) – Financial Web3 app on Solana with payment automation.  
+- 🌲 [Degen Forest](https://degenforest.com/) – Modern landing page with Framer Motion animations.
 ### 📊 GitHub Stats
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeWithUmair&show_icons=true&theme=radical" alt="Umair's GitHub stats" />
 </p>
@@ -46,14 +54,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithUmair&theme=radical" alt="GitHub Streak Stats" />
 </p>
-
----
-
-### ✨ Featured Projects
-- 🪙 [Crypto on Discount](https://cryptoondiscount.com/) – Web3 platform for USDC staking and smart contract integrations.  
-- 💼 [IAMDivinity](https://www.linkedin.com/company/decryptedlabs/) – Scalable platform with 10K+ users, optimized for performance and SEO.  
-- 💳 [StablePal](https://stable-pal.vercel.app/) – Financial Web3 app on Solana with payment automation.  
-- 🌲 [Degen Forest](https://degenforest.com/) – Modern landing page with Framer Motion animations.
 
 ---
 
