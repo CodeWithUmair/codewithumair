@@ -9,8 +9,7 @@
 - 🤖 Exploring **AI-powered workflows (OpenAI, Gemini)** and **Web3 smart contract integrations**  
 - 👨‍💻 Portfolio: [https://umairamir.vercel.app](https://umairamir.vercel.app)  
 - 💬 Ask me about **Frontend Architecture, Next.js Optimization, or Web3 Integrations**  
-- 📫 Reach me at **codewithumair867@gmail.com**  
-- 🎮 Fun fact: I still love playing **Counter-Strike 1.6 🔫**
+- 📫 Reach me at **codewithumair867@gmail.com**
 
 ---
 
