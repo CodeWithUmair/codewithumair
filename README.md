@@ -7,7 +7,7 @@
 - 💻 Building **scalable, high-performance web apps** using **Next.js, React.js, and TypeScript**  
 - ⚙️ Experienced in **Redux Toolkit, Node.js, Express.js, MongoDB, and API Integrations**  
 - 🤖 Exploring **AI-powered workflows (OpenAI, Gemini)** and **Web3 smart contract integrations**  
-- 👨‍💻 Portfolio: [https://umairamir.vercel.app](https://umairamir.vercel.app)  
+- 👨‍💻 Portfolio: [https://umairamir.com](https://umairamir.vercel.app)  
 - 💬 Ask me about **Frontend Architecture, Next.js Optimization, or Web3 Integrations**  
 - 📫 Reach me at **codewithumair867@gmail.com**
 
