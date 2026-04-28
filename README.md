@@ -52,15 +52,6 @@ Built with **Next.js + LangGraph + Claude API + Apollo + Gmail API**. Multi-agen
 
 **Status:** Live & iterating based on client feedback
 
----
-
-### 💎 IAMDIVINITY — DeFi MLM Platform
-> *MLM compensation platform on BSC Mainnet with smart contract-enforced referral rewards, 3&Free billing logic, and Authorize.net webhooks.*
-
-**Status:** Deployed on BSC Mainnet `0x15D74...711bFD` | Production webhooks live
-
----
-
 ## 🛠️ Featured Projects
 
 | Project | Description | Stack |
