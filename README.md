@@ -30,7 +30,7 @@ const umair = {
   currentlyAt: "Decrypted Labs",
   building: ["AI SDR Agent (LangGraph + Claude API)", "MLM DeFi Platform on BSC Mainnet"],
   stack: {
-    frontend:  ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    frontend:  ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS", "Framer Motion"],
     backend:   ["Node.js", "Express", "NestJS", "Prisma", "MongoDB", "PostgreSQL"],
     ai:        ["LangChain", "LangGraph", "Claude API", "OpenAI", "MCP"],
     web3:      ["Solidity", "BSC", "Ethers.js", "Smart Contracts"],
